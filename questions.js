@@ -2,7 +2,7 @@
 let questions = [
     {
     numb: 1,
-    question: "What does HTML stand for?",
+    question: "When was BlockChain created?",
     answer: "Hyper Text Markup Language",
     options: [
       "Hyper Text Preprocessor",
@@ -13,13 +13,13 @@ let questions = [
   },
     {
     numb: 2,
-    question: "What does CSS stand for?",
-    answer: "Cascading Style Sheet",
+    question: "How many types of BlockChains are there?",
+    answer: "3",
     options: [
-      "Common Style Sheet",
-      "Colorful Style Sheet",
-      "Computer Style Sheet",
-      "Cascading Style Sheet"
+      "4",
+      "6",
+      "3",
+      "7"
     ]
   },
     {
